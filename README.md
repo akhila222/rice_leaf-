@@ -1,4 +1,4 @@
-# rice_leaf-
+# Rice_leaf
 Image classification|| CNN model || Deep learning
  RiceLeaf disease detection
 
